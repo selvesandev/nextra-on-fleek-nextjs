@@ -59,12 +59,12 @@ fleek functions deploy --bundle=false --path .fleek/dist/index.js --assets .flee
 
 //example
 fleek functions deploy --bundle=false --path .fleek/dist/index.js --assets .fleek/static --name fleek-nextra
+```
 
 
+[**Live Demo →**](https://wailing-laptop-huge.functions.on-fleek.app/)
 
-[**Live Demo →**](https://old-russia-early.functions.on-fleek.app/)
-
-[![](.github/screenshot.png)](https://old-russia-early.functions.on-fleek.app/)
+[![](.github/screenshot.png)](https://wailing-laptop-huge.functions.on-fleek.app/)
 
 ## License
 
